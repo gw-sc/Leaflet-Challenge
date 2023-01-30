@@ -1,8 +1,8 @@
 # Leaflet-Challenge
 DAV Module 15 Web Mapping Challenge
 
-Earthquake Visualization: [Leaflet Part 1](https://gw-sc.github.io/Leaflet-challenge/)
-Gather and Plot More Data: [Leaflet Part 2](https://gw-sc.github.io/Leaflet-challenge/Part-2)
+Deployed page: [Earthquake Visualization](https://gw-sc.github.io/Leaflet-challenge/)
+
 
 # Unit 15 Homework: Visualizing Data with Leaflet
 
